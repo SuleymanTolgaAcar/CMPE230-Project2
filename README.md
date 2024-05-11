@@ -1,4 +1,4 @@
-# CMPE 230 – Project 2
+# CMPE 230 Project 2 - Postfix to RISC-V Translator
 
 ## General Program Flow
 
